@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-10",
-  "prev_date": "2026-10-09",
+  "date": "2026-10-11",
+  "prev_date": "2026-10-10",
   "types": [
     {
       "type": "all",
       "url": "api/latest/male_read/all.json",
       "category_count": 19,
-      "book_count": 570
+      "book_count": 550
     },
     {
       "type": "西方奇幻",
@@ -16,7 +16,7 @@
     {
       "type": "东方仙侠",
       "url": "api/latest/male_read/%E4%B8%9C%E6%96%B9%E4%BB%99%E4%BE%A0.json",
-      "book_count": 30
+      "book_count": 20
     },
     {
       "type": "科幻末世",
@@ -96,7 +96,7 @@
     {
       "type": "动漫衍生",
       "url": "api/latest/male_read/%E5%8A%A8%E6%BC%AB%E8%A1%8D%E7%94%9F.json",
-      "book_count": 30
+      "book_count": 20
     },
     {
       "type": "男频衍生",

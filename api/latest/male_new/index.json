@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-10",
-  "prev_date": "2026-10-09",
+  "date": "2026-10-11",
+  "prev_date": "2026-10-10",
   "types": [
     {
       "type": "all",
       "url": "api/latest/male_new/all.json",
       "category_count": 19,
-      "book_count": 570
+      "book_count": 510
     },
     {
       "type": "西方奇幻",
@@ -46,7 +46,7 @@
     {
       "type": "战神赘婿",
       "url": "api/latest/male_new/%E6%88%98%E7%A5%9E%E8%B5%98%E5%A9%BF.json",
-      "book_count": 30
+      "book_count": 0
     },
     {
       "type": "都市种田",
@@ -71,12 +71,12 @@
     {
       "type": "都市脑洞",
       "url": "api/latest/male_new/%E9%83%BD%E5%B8%82%E8%84%91%E6%B4%9E.json",
-      "book_count": 30
+      "book_count": 20
     },
     {
       "type": "玄幻脑洞",
       "url": "api/latest/male_new/%E7%8E%84%E5%B9%BB%E8%84%91%E6%B4%9E.json",
-      "book_count": 30
+      "book_count": 10
     },
     {
       "type": "悬疑灵异",
