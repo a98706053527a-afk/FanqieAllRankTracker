@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-11",
-  "prev_date": "2026-10-10",
+  "date": "2026-10-12",
+  "prev_date": "2026-10-11",
   "types": [
     {
       "type": "all",
       "url": "api/latest/female_new/all.json",
       "category_count": 18,
-      "book_count": 460
+      "book_count": 540
     },
     {
       "type": "古风世情",
@@ -26,7 +26,7 @@
     {
       "type": "女频衍生",
       "url": "api/latest/female_new/%E5%A5%B3%E9%A2%91%E8%A1%8D%E7%94%9F.json",
-      "book_count": 10
+      "book_count": 30
     },
     {
       "type": "玄幻言情",
@@ -41,7 +41,7 @@
     {
       "type": "年代",
       "url": "api/latest/female_new/%E5%B9%B4%E4%BB%A3.json",
-      "book_count": 0
+      "book_count": 30
     },
     {
       "type": "现言脑洞",
@@ -56,7 +56,7 @@
     {
       "type": "悬疑脑洞",
       "url": "api/latest/female_new/%E6%82%AC%E7%96%91%E8%84%91%E6%B4%9E.json",
-      "book_count": 0
+      "book_count": 30
     },
     {
       "type": "古言脑洞",

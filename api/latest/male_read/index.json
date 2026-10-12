@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-11",
-  "prev_date": "2026-10-10",
+  "date": "2026-10-12",
+  "prev_date": "2026-10-11",
   "types": [
     {
       "type": "all",
       "url": "api/latest/male_read/all.json",
       "category_count": 19,
-      "book_count": 550
+      "book_count": 530
     },
     {
       "type": "西方奇幻",
@@ -16,7 +16,7 @@
     {
       "type": "东方仙侠",
       "url": "api/latest/male_read/%E4%B8%9C%E6%96%B9%E4%BB%99%E4%BE%A0.json",
-      "book_count": 20
+      "book_count": 30
     },
     {
       "type": "科幻末世",
@@ -46,7 +46,7 @@
     {
       "type": "战神赘婿",
       "url": "api/latest/male_read/%E6%88%98%E7%A5%9E%E8%B5%98%E5%A9%BF.json",
-      "book_count": 30
+      "book_count": 20
     },
     {
       "type": "都市种田",
@@ -96,12 +96,12 @@
     {
       "type": "动漫衍生",
       "url": "api/latest/male_read/%E5%8A%A8%E6%BC%AB%E8%A1%8D%E7%94%9F.json",
-      "book_count": 20
+      "book_count": 30
     },
     {
       "type": "男频衍生",
       "url": "api/latest/male_read/%E7%94%B7%E9%A2%91%E8%A1%8D%E7%94%9F.json",
-      "book_count": 30
+      "book_count": 0
     }
   ]
 }
