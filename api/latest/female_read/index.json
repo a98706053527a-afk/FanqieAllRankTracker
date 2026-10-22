@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-21",
-  "prev_date": "2026-10-19",
+  "date": "2026-10-22",
+  "prev_date": "2026-10-21",
   "types": [
     {
       "type": "all",
       "url": "api/latest/female_read/all.json",
       "category_count": 18,
-      "book_count": 500
+      "book_count": 540
     },
     {
       "type": "古风世情",
@@ -76,7 +76,7 @@
     {
       "type": "星光璀璨",
       "url": "api/latest/female_read/%E6%98%9F%E5%85%89%E7%92%80%E7%92%A8.json",
-      "book_count": 0
+      "book_count": 30
     },
     {
       "type": "女频悬疑",
@@ -86,7 +86,7 @@
     {
       "type": "职场婚恋",
       "url": "api/latest/female_read/%E8%81%8C%E5%9C%BA%E5%A9%9A%E6%81%8B.json",
-      "book_count": 20
+      "book_count": 30
     },
     {
       "type": "豪门总裁",
